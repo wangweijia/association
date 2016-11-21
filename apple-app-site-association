@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6KLN6TB8A7.com.eku001.EkuKangDA",
+                "paths": [ "/codebage/V3.8.2/raw/master/.well-known/*", "/codebage/V3.8.2/raw/master/*", "*" ]
+            }
+        ]
+    }
+}
